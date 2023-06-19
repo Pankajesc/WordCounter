@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+  margin: auto auto;
+  width: 30%;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 0 0 30px 10px #999;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  width: 80%;
+}
+
+textarea{
+  width: 90%;
+  border: 1px solid black;
+  border-radius: 3px;
+  height: 100px;
+}
