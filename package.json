@@ -1,7 +1,6 @@
 {
-  "name": "word-counter",
-  
   "homepage": "https://Pankaj8287.github.io/WordCounter",
+  "name": "word-counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
